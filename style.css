@@ -21,7 +21,7 @@ body {
 
 .hero-section {
   min-height: 730px;
-  background-image: url("./images/home-banner.webp");
+  background-image: url("https://images.unsplash.com/photo-1600566753086-00f18fb6b3ea?auto=format&fit=crop&w=2000&q=85");
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
